@@ -1,2 +1,2 @@
 # Compteur
-A mutliple counter
+A basic counter iOS App
